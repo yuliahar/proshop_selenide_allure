@@ -63,7 +63,7 @@
 <a href=""><img src="images/png/img.png" alt="Structure"/></a>  
 </p>
 
-## ▶ **How To Use**
+## ▶ **How to Use**
 ### 🔨 **Configuration File**
 ```properties
 browser=[BROWSER] (chrome by default)
