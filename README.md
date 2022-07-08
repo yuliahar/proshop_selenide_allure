@@ -161,7 +161,7 @@ allure serve build/allure-results
 </p>
 
 ## 🎬 **Video of Tests Execution**
-> Every test has attached video, screenshots and logs. One of video you can see below:
+> Every test has attached video, screenshots and logs. One of videos you can see below:
 <p align="center">
   <img title="Selenoid Video" src="images/gif/test_run.gif">
 </p>
