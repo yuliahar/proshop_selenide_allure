@@ -13,20 +13,22 @@ public interface ProjectConfig extends Config {
     @Config.DefaultValue("chrome")
     @Config.Key("browser")
     String browser();
+
     @Config.DefaultValue("100.0")
     @Config.Key("browserVersion")
     String browserVersion();
+
     @Config.DefaultValue("1920x1080")
     @Config.Key("browserSize")
     String browserSize();
-    @Config.DefaultValue("")
-    @Config.Key("browserMobileView")
-    String browserMobileView();
+
     @Config.DefaultValue("")
     @Config.Key("remoteDriverUrl")
     String remoteDriverUrl();
+
     @Config.Key("videoStorage")
     String videoStorage();
+
     @Config.DefaultValue("https://dev-proshop.herokuapp.com")
     @Config.Key("baseUrl")
     String baseUrl();
