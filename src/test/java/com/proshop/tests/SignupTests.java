@@ -9,7 +9,6 @@ import org.junit.jupiter.api.*;
 
 import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Condition.visible;
-import static com.proshop.utils.RandomUtils.getRandomPassword;
 import static io.qameta.allure.Allure.step;
 
 @Story("Sign up tests")

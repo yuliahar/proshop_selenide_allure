@@ -1,6 +1,5 @@
 package com.proshop.utils;
 
-import java.sql.Timestamp;
 import java.util.Random;
 
 public class RandomUtils {
