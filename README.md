@@ -2,7 +2,7 @@
 
 ***ProShop is eCommerce platform built with the MERN stack for learning purposes.***
 
-### **Table of Contents**  
+## **Table of Contents**  
 - [**ProShop Functionality**](#proshop-functionality)
 - [**Technologies and Tools**](#technologies-and-tools)
 - [**Project Structure**](#project-structure)
@@ -64,39 +64,39 @@
 ├── README.md
 ├── build.gradle
 ├── gradle
-│   └── wrapper
-│       ├── gradle-wrapper.jar
-│       └── gradle-wrapper.properties
+│ └── wrapper
+│    ├── gradle-wrapper.jar
+│    └── gradle-wrapper.properties
 ├── gradlew
 ├── gradlew.bat
 ├── notifications
-│   ├── commands.txt
-│   ├── slack.json
-│   └── telegram.json
-└── src
+│ ├── commands.txt
+│ ├── slack.json
+│ └── telegram.json
+└─ src
     └── test
         ├── java
-        │   └── com
-        │       └── proshop
-        │           ├── config
-        │           │   ├── Project.java
-        │           │   └── ProjectConfig.java
-        │           ├── data
-        │           │   └── User.java
-        │           ├── helpers
-        │           │   ├── AllureAttachments.java
-        │           │   ├── DriverSettings.java
-        │           │   └── DriverUtils.java
-        │           ├── pages
-        │           │   ├── HomePage.java
-        │           │   ├── LoginPage.java
-        │           │   └── RegisterPage.java
-        │           ├── tests
-        │           │   ├── BaseTest.java
-        │           │   ├── LoginTests.java
-        │           │   └── SignupTests.java
-        │           └── utils
-        │               └── RandomUtils.java
+        │   └── com
+        │       └── proshop
+        │           ├── config
+        │           │   ├── Project.java
+        │           │   └── ProjectConfig.java
+        │           ├── data
+        │           │   └── User.java
+        │           ├── helpers
+        │           │   ├── AllureAttachments.java
+        │           │   ├── DriverSettings.java
+        │           │   └── DriverUtils.java
+        │           ├── pages
+        │           │   ├── HomePage.java
+        │           │   ├── LoginPage.java
+        │           │   └── RegisterPage.java
+        │           ├── tests
+        │           │   ├── BaseTest.java
+        │           │   ├── LoginTests.java
+        │           │   └── SignupTests.java
+        │           └── utils
+        │               └── RandomUtils.java
         └── resources
             └── config
                 ├── local.properties.example
@@ -204,5 +204,5 @@ allure serve build/allure-results
 ## 🎬 **Video of Tests Execution**
 > Every test has attached video, screenshots and logs. One of video you can see below:
 <p align="center">
-  <img title="Selenoid Video" src="images/gif/test-run.gif">
+  <img title="Selenoid Video" src="images/gif/test_run.gif">
 </p>
