@@ -59,50 +59,9 @@
 </p>
 
 ## 📌 **Project Structure**
-
-```aidl
-├── README.md
-├── build.gradle
-├── gradle
-│ └── wrapper
-│    ├── gradle-wrapper.jar
-│    └── gradle-wrapper.properties
-├── gradlew
-├── gradlew.bat
-├── notifications
-│ ├── commands.txt
-│ ├── slack.json
-│ └── telegram.json
-└─ src
-    └── test
-        ├── java
-        │   └── com
-        │       └── proshop
-        │           ├── config
-        │           │   ├── Project.java
-        │           │   └── ProjectConfig.java
-        │           ├── data
-        │           │   └── User.java
-        │           ├── helpers
-        │           │   ├── AllureAttachments.java
-        │           │   ├── DriverSettings.java
-        │           │   └── DriverUtils.java
-        │           ├── pages
-        │           │   ├── HomePage.java
-        │           │   ├── LoginPage.java
-        │           │   └── RegisterPage.java
-        │           ├── tests
-        │           │   ├── BaseTest.java
-        │           │   ├── LoginTests.java
-        │           │   └── SignupTests.java
-        │           └── utils
-        │               └── RandomUtils.java
-        └── resources
-            └── config
-                ├── local.properties.example
-                └── remote.properties.example
-
-```
+<p align="center">  
+<a href=""><img src="images/png/img.png" alt="Structure"/></a>  
+</p>
 
 ## ▶ **How To Use**
 ### 🔨 **Configuration File**
